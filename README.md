@@ -1,2 +1,2 @@
 # All-of-my-c-programs
-![image.png](image.png)
+![image.png](images.png)
